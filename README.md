@@ -1,4 +1,4 @@
-# news
+# news Tempate
 
 <center>
     <img src="img/Capture.PNG"/>
