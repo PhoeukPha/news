@@ -1,4 +1,4 @@
-# news Tempate
+# news Template
 
 <center>
     <img src="img/Capture.PNG"/>
